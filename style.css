@@ -83,30 +83,23 @@ html, body {
     bottom: 141px;
     z-index:-2;
 }
-
-.windowtop {
+.window{
 	position: absolute;
 	background: black;
 	height: 30px;
 	width: 40px;
+}
+.winpositiontop {
 	right: 80px;
 	bottom: 100px;	
 }
 
-.windowleft {
-	position: absolute;
-	background: black;
-	height: 30px;
-	width: 40px;
+.winpositionleft {
 	left: 20px;
 	top: 40px;
 }
 
-.windowright {
-	position: absolute;
-	background: black;
-	height: 30px;
-	width: 40px;
+.winpositionright {
 	right: 20px;
 	top: 40px;
 }
