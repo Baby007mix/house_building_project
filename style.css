@@ -2,6 +2,7 @@
 	margin: 0 auto;
 	text-align: center;
 }
+p{font-family: arial}
 
 html, body {
 	max-width: 640px;
