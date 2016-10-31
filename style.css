@@ -31,7 +31,7 @@ html, body{
 	height: 0;
 	width: 0;
 	left: 0;
-top: -80px;
+	top: -80px;
 }
 /*roof properties*/
 .left{
@@ -150,4 +150,9 @@ top: -80px;
 	top: 73px;
 }
 /*ends here*/
+footer{
+	font-family: arial;
+	font-size:10px;
+	margin: 80px;
+}
 /*end of code*/
